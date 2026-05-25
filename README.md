@@ -74,6 +74,18 @@ FakeDatabase.resetTokens.remove(token);
 - log repeated token reuse attempts
 - notify users of suspicious reset activity
 
+# Screenshots
+
+<p align="center">
+  <img src="https://github.com/ishan-walia/Vulnerable-Lab-Design-Task/blob/main/Photo/Screenshot%202026-05-25%20115342.png" width="820">
+
+  <img src="https://github.com/ishan-walia/Vulnerable-Lab-Design-Task/blob/main/Photo/Screenshot%202026-05-25%20111715.png" width="220">
+
+  <img src="https://github.com/ishan-walia/Vulnerable-Lab-Design-Task/blob/main/Photo/Screenshot%202026-05-25%20111725.png" width="220">
+
+  <img src="https://github.com/ishan-walia/Vulnerable-Lab-Design-Task/blob/main/Photo/Screenshot%202026-05-25%20111753.png" width="220">
+</p>
+   
 # Tech Stack
 - Flutter
 - Dart
